@@ -36,7 +36,6 @@ Install dependencies (pip install -r requirements.txt)
 Run the Flask app:
 
 python app.py
-Open your browser at http://127.0.0.1:5000/ and try it live!
 
 Use Case:
 This system helps users (especially beginners or time-constrained individuals) discover recipes they can cook quickly and easily with what they already have. It has potential applications in smart kitchen assistants, mobile cooking apps, and AI-enabled meal planning.

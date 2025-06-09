@@ -1,0 +1,125 @@
+recipe_id,recipe_name,ingredients,cooking_time_minutes,instructions
+1,Aloo Gobi,"salt, cloves, carrot, mustard seeds, yogurt, ghee, rice, peas, mint",28,1. Mix the mint. 2. Boil the rice. 3. Fry the salt. 4. Simmer the carrot.
+2,Baingan Bharta,"ghee, dal, cloves, green chili, ginger",16,1. Fry the ginger. 2. Add spices to the ginger. 3. Boil the ginger. 4. Grind the dal.
+3,Bhindi Masala,"mustard seeds, oil, ginger, cloves, cumin",38,1. Mix the cloves. 2. Chop the cloves. 3. Fry the oil. 4. Add spices to the cumin.
+4,Chana Masala,"oil, rice, spinach, cloves, lemon juice, turmeric, garlic, curry leaves",10,1. Pressure cook the rice. 2. Fry the cloves. 3. Add spices to the spinach. 4. Mix the rice.
+5,Dal Tadka,"ghee, ginger, mustard seeds, paneer, salt, oil, spinach, yogurt, turmeric, garlic",28,1. Chop the paneer. 2. Add spices to the oil. 3. Grind the turmeric. 4. Pressure cook the ghee.
+6,Rajma,"peas, coriander, curry leaves, cumin, green chili, dal, tomato",31,1. Chop the peas. 2. Grind the green chili. 3. Boil the coriander. 4. Simmer the peas.
+7,Paneer Butter Masala,"potato, dal, cardamom, rice, onion, ginger, cumin",28,1. Simmer the potato. 2. Saute the onion. 3. Grind the dal. 4. Chop the potato.
+8,Kadai Paneer,"garlic, turmeric, dal, salt, ginger, onion, ghee, potato, spinach",29,1. Pressure cook the ginger. 2. Grind the spinach. 3. Simmer the onion. 4. Boil the potato.
+9,Palak Paneer,"ghee, lemon juice, potato, cumin, oil, dal, yogurt",39,1. Grind the ghee. 2. Mix the yogurt. 3. Saute the ghee. 4. Fry the lemon juice.
+10,Matar Paneer,"curry leaves, tomato, cumin, butter, salt, rice, coriander, cloves",34,1. Grind the tomato. 2. Mix the cloves. 3. Pressure cook the tomato. 4. Fry the cloves.
+11,Methi Malai Matar,"tomato, coriander, mustard seeds, cumin, cardamom, butter, ghee, spinach, carrot, rice",36,1. Pressure cook the coriander. 2. Chop the carrot. 3. Boil the cardamom. 4. Saute the mustard seeds.
+12,Malai Kofta,"spinach, yogurt, garlic, curry leaves, turmeric, lemon juice",42,1. Saute the curry leaves. 2. Pressure cook the curry leaves. 3. Chop the turmeric. 4. Mix the spinach.
+13,Shahi Paneer,"coriander, paneer, mustard seeds, cumin, lemon juice, mint, yogurt, potato",45,1. Add spices to the lemon juice. 2. Boil the cumin. 3. Pressure cook the cumin. 4. Fry the mustard seeds.
+14,Vegetable Biryani,"coriander, yogurt, cloves, lemon juice, rice",39,1. Add spices to the yogurt. 2. Grind the coriander. 3. Saute the rice. 4. Simmer the yogurt.
+15,Jeera Rice,"coriander, yogurt, green chili, cauliflower, peas, spinach, carrot, dal, oil",16,1. Saute the oil. 2. Add spices to the green chili. 3. Pressure cook the dal. 4. Mix the spinach.
+16,Vegetable Pulao,"butter, ginger, dal, green chili, spinach, peas, oil, rice, cumin, lemon juice",30,1. Mix the ginger. 2. Saute the cumin. 3. Pressure cook the rice. 4. Fry the rice.
+17,Khichdi,"tomato, carrot, cloves, dal, ginger, paneer, oil, spinach, peas",26,1. Mix the carrot. 2. Simmer the tomato. 3. Grind the spinach. 4. Saute the peas.
+18,Curd Rice,"salt, potato, lemon juice, ginger, tomato",31,1. Pressure cook the tomato. 2. Saute the potato. 3. Chop the lemon juice. 4. Grind the lemon juice.
+19,Lemon Rice,"cardamom, cloves, oil, rice, garlic, carrot, mint, peas",14,1. Add spices to the garlic. 2. Saute the rice. 3. Simmer the cardamom. 4. Chop the cardamom.
+20,Tamarind Rice,"yogurt, ghee, green chili, dal, lemon juice, turmeric, curry leaves, mint, mustard seeds, coriander",10,1. Boil the lemon juice. 2. Chop the ghee. 3. Grind the ghee. 4. Add spices to the lemon juice.
+21,Poha,"spinach, potato, curry leaves, cumin, carrot",19,1. Mix the cumin. 2. Boil the potato. 3. Saute the curry leaves. 4. Add spices to the spinach.
+22,Upma,"green chili, curry leaves, yogurt, tomato, oil, butter, carrot, cauliflower, salt, cumin",18,1. Saute the yogurt. 2. Mix the green chili. 3. Simmer the tomato. 4. Pressure cook the oil.
+23,Vegetable Sandwich,"cauliflower, cardamom, ginger, garlic, potato, coriander, green chili, oil, onion",32,1. Boil the ginger. 2. Grind the cauliflower. 3. Mix the onion. 4. Chop the green chili.
+24,Dhokla,"cloves, oil, onion, coriander, spinach, mint",25,1. Grind the oil. 2. Chop the oil. 3. Mix the onion. 4. Pressure cook the coriander.
+25,Idli,"onion, ghee, oil, spinach, paneer, coriander, carrot, cardamom, cauliflower, tomato",41,1. Simmer the onion. 2. Mix the tomato. 3. Fry the oil. 4. Pressure cook the paneer.
+26,Vada,"carrot, tomato, salt, dal, ginger, coriander, curry leaves, garlic, yogurt, cardamom",19,1. Fry the tomato. 2. Chop the salt. 3. Boil the carrot. 4. Add spices to the carrot.
+27,Sambar,"salt, peas, rice, spinach, garlic",15,1. Add spices to the rice. 2. Chop the garlic. 3. Fry the garlic. 4. Saute the rice.
+28,Rasam,"spinach, tomato, ginger, yogurt, potato, green chili, oil, cumin, garlic, turmeric",35,1. Saute the garlic. 2. Mix the tomato. 3. Add spices to the spinach. 4. Pressure cook the yogurt.
+29,Medu Vada,"potato, yogurt, lemon juice, paneer, turmeric, cloves, garlic, tomato, oil, cumin",31,1. Fry the lemon juice. 2. Grind the lemon juice. 3. Chop the yogurt. 4. Simmer the yogurt.
+30,Dosa,"ghee, paneer, curry leaves, carrot, cumin, butter, yogurt",33,1. Grind the paneer. 2. Boil the ghee. 3. Add spices to the curry leaves. 4. Saute the carrot.
+31,Masala Dosa,"onion, cauliflower, lemon juice, mint, carrot, salt, mustard seeds",17,1. Grind the mustard seeds. 2. Add spices to the carrot. 3. Chop the mint. 4. Pressure cook the mint.
+32,Onion Uttapam,"cauliflower, salt, tomato, mustard seeds, onion",34,1. Simmer the tomato. 2. Add spices to the onion. 3. Fry the tomato. 4. Saute the tomato.
+33,Pesarattu,"garlic, curry leaves, cardamom, peas, coriander, dal, green chili, spinach, ghee, oil",19,1. Simmer the green chili. 2. Mix the dal. 3. Add spices to the green chili. 4. Saute the peas.
+34,Bisi Bele Bath,"potato, yogurt, salt, lemon juice, mint, paneer, curry leaves",24,1. Simmer the salt. 2. Boil the paneer. 3. Grind the salt. 4. Pressure cook the paneer.
+35,Aloo Paratha,"rice, mustard seeds, onion, coriander, lemon juice, green chili, potato, turmeric, mint, cumin",24,1. Chop the mint. 2. Add spices to the rice. 3. Simmer the mint. 4. Mix the coriander.
+36,Gobi Paratha,"lemon juice, paneer, cloves, onion, dal, garlic, ghee, peas",12,1. Simmer the lemon juice. 2. Fry the ghee. 3. Pressure cook the ghee. 4. Saute the peas.
+37,Paneer Paratha,"ginger, cumin, curry leaves, rice, carrot, mustard seeds, peas, butter, green chili, spinach",40,1. Simmer the spinach. 2. Saute the mustard seeds. 3. Chop the butter. 4. Mix the spinach.
+38,Mooli Paratha,"salt, onion, rice, garlic, carrot, turmeric, mustard seeds",45,1. Add spices to the carrot. 2. Grind the salt. 3. Chop the carrot. 4. Fry the carrot.
+39,Chole Bhature,"ghee, coriander, ginger, peas, oil, curry leaves",32,1. Grind the ginger. 2. Boil the peas. 3. Mix the ghee. 4. Chop the oil.
+40,Pav Bhaji,"cauliflower, curry leaves, peas, yogurt, onion, spinach, paneer, ghee",26,1. Pressure cook the yogurt. 2. Grind the cauliflower. 3. Boil the cauliflower. 4. Saute the curry leaves.
+41,Misal Pav,"ghee, dal, potato, cauliflower, lemon juice, garlic, turmeric, ginger",35,1. Mix the dal. 2. Fry the ginger. 3. Simmer the lemon juice. 4. Add spices to the dal.
+42,Ragda Pattice,"mint, curry leaves, green chili, garlic, yogurt, potato, lemon juice, carrot, ginger",24,1. Mix the garlic. 2. Add spices to the yogurt. 3. Chop the garlic. 4. Saute the curry leaves.
+43,Sabudana Khichdi,"cloves, garlic, rice, cumin, ghee, carrot",31,1. Chop the ghee. 2. Add spices to the rice. 3. Pressure cook the rice. 4. Fry the rice.
+44,Thalipeeth,"cardamom, cumin, oil, turmeric, curry leaves, paneer, dal, cauliflower, green chili",28,1. Pressure cook the paneer. 2. Chop the green chili. 3. Fry the dal. 4. Simmer the curry leaves.
+45,Kanda Poha,"curry leaves, ginger, onion, butter, cauliflower, mint, tomato, ghee, salt, green chili",22,1. Boil the salt. 2. Simmer the green chili. 3. Saute the tomato. 4. Pressure cook the mint.
+46,Batata Vada,"mint, ginger, garlic, curry leaves, oil, paneer, yogurt, carrot",27,1. Chop the carrot. 2. Boil the mint. 3. Saute the garlic. 4. Fry the oil.
+47,Kachori,"coriander, onion, potato, dal, peas, ghee, carrot, mint",30,1. Boil the ghee. 2. Mix the onion. 3. Saute the dal. 4. Chop the peas.
+48,Samosa,"lemon juice, turmeric, curry leaves, cardamom, peas, potato, yogurt, salt",21,1. Add spices to the salt. 2. Mix the cardamom. 3. Grind the curry leaves. 4. Fry the salt.
+49,Pakora,"mint, dal, lemon juice, salt, mustard seeds, butter, potato, ginger, cumin",19,1. Grind the ginger. 2. Saute the ginger. 3. Simmer the lemon juice. 4. Pressure cook the cumin.
+50,Bread Pakora,"spinach, tomato, peas, garlic, cumin",11,1. Add spices to the garlic. 2. Pressure cook the tomato. 3. Mix the garlic. 4. Boil the spinach.
+51,Paneer Tikka,"dal, oil, cauliflower, coriander, tomato, mustard seeds, carrot, salt, lemon juice",41,1. Pressure cook the mustard seeds. 2. Fry the tomato. 3. Add spices to the mustard seeds. 4. Saute the carrot.
+52,Tandoori Chicken,"turmeric, onion, green chili, cardamom, ghee, rice, cloves",10,1. Simmer the onion. 2. Fry the onion. 3. Add spices to the green chili. 4. Saute the rice.
+53,Chicken Curry,"oil, yogurt, ghee, dal, salt",41,1. Add spices to the yogurt. 2. Boil the oil. 3. Pressure cook the oil. 4. Mix the salt.
+54,Butter Chicken,"oil, carrot, garlic, mustard seeds, curry leaves, spinach, paneer, yogurt",31,1. Grind the curry leaves. 2. Fry the garlic. 3. Chop the curry leaves. 4. Add spices to the paneer.
+55,Chicken Biryani,"butter, garlic, oil, onion, ghee, peas, turmeric, lemon juice",29,1. Chop the onion. 2. Boil the ghee. 3. Saute the oil. 4. Mix the oil.
+56,Mutton Curry,"butter, paneer, lemon juice, curry leaves, cloves, tomato",18,1. Simmer the lemon juice. 2. Pressure cook the cloves. 3. Mix the paneer. 4. Add spices to the paneer.
+57,Fish Curry,"coriander, peas, cardamom, lemon juice, paneer, mustard seeds, onion, garlic, rice, turmeric",20,1. Simmer the coriander. 2. Grind the paneer. 3. Fry the cardamom. 4. Boil the garlic.
+58,Prawn Masala,"cardamom, lemon juice, paneer, cauliflower, salt, potato, green chili, mustard seeds",45,1. Chop the paneer. 2. Add spices to the green chili. 3. Saute the potato. 4. Pressure cook the cardamom.
+59,Egg Curry,"cardamom, tomato, yogurt, cumin, coriander, carrot, cloves",41,1. Mix the carrot. 2. Boil the coriander. 3. Saute the coriander. 4. Pressure cook the cardamom.
+60,Anda Bhurji,"cauliflower, peas, cloves, carrot, garlic, onion, ghee, potato",11,1. Chop the cauliflower. 2. Pressure cook the carrot. 3. Grind the potato. 4. Mix the garlic.
+61,Egg Fried Rice,"cauliflower, oil, cloves, butter, spinach",32,1. Chop the butter. 2. Grind the oil. 3. Saute the cauliflower. 4. Fry the butter.
+62,Vegetable Fried Rice,"mint, carrot, dal, ginger, spinach, coriander, mustard seeds, rice, cloves",37,1. Mix the spinach. 2. Fry the mustard seeds. 3. Boil the mustard seeds. 4. Saute the mint.
+63,Hakka Noodles,"green chili, curry leaves, turmeric, onion, potato",39,1. Mix the potato. 2. Grind the green chili. 3. Add spices to the potato. 4. Simmer the onion.
+64,Gobi Manchurian,"coriander, turmeric, cumin, spinach, peas, yogurt, tomato, butter, green chili",34,1. Saute the peas. 2. Pressure cook the turmeric. 3. Chop the coriander. 4. Add spices to the spinach.
+65,Veg Momos,"curry leaves, onion, mustard seeds, butter, cloves, peas, cumin, tomato",25,1. Pressure cook the cumin. 2. Add spices to the tomato. 3. Grind the butter. 4. Chop the cloves.
+66,Spring Rolls,"yogurt, onion, green chili, potato, rice, cardamom, turmeric",37,1. Fry the yogurt. 2. Boil the rice. 3. Pressure cook the potato. 4. Chop the turmeric.
+67,Vegetable Cutlet,"lemon juice, onion, butter, tomato, cumin",45,1. Pressure cook the tomato. 2. Simmer the cumin. 3. Grind the onion. 4. Mix the tomato.
+68,Aloo Tikki,"rice, coriander, carrot, garlic, dal, cauliflower",29,1. Pressure cook the garlic. 2. Saute the carrot. 3. Chop the dal. 4. Add spices to the carrot.
+69,Hara Bhara Kabab,"coriander, green chili, ginger, ghee, oil, cauliflower",24,1. Mix the ginger. 2. Pressure cook the cauliflower. 3. Chop the ginger. 4. Simmer the ginger.
+70,Dahi Puri,"carrot, lemon juice, mint, paneer, salt",11,1. Add spices to the lemon juice. 2. Pressure cook the paneer. 3. Mix the lemon juice. 4. Fry the carrot.
+71,Bhel Puri,"carrot, mustard seeds, tomato, ghee, oil, cloves, butter",33,1. Add spices to the carrot. 2. Fry the carrot. 3. Boil the ghee. 4. Simmer the carrot.
+72,Sev Puri,"carrot, yogurt, spinach, dal, garlic, green chili",15,1. Fry the dal. 2. Boil the green chili. 3. Chop the spinach. 4. Grind the dal.
+73,Pani Puri,"butter, carrot, cumin, garlic, cloves, curry leaves",12,1. Saute the cumin. 2. Fry the garlic. 3. Chop the carrot. 4. Add spices to the carrot.
+74,Moong Dal Chilla,"peas, potato, green chili, salt, mint",37,1. Chop the green chili. 2. Fry the salt. 3. Saute the peas. 4. Pressure cook the green chili.
+75,Besan Chilla,"cloves, lemon juice, butter, turmeric, onion, spinach, rice",18,1. Add spices to the turmeric. 2. Pressure cook the butter. 3. Fry the onion. 4. Saute the cloves.
+76,Kadhi Pakora,"mustard seeds, coriander, potato, paneer, cauliflower, cumin, green chili, rice",25,1. Saute the green chili. 2. Pressure cook the cumin. 3. Fry the coriander. 4. Simmer the cumin.
+77,Litti Chokha,"cumin, cardamom, butter, yogurt, cloves",33,1. Simmer the cardamom. 2. Add spices to the butter. 3. Fry the yogurt. 4. Mix the yogurt.
+78,Chana Sundal,"spinach, cumin, cauliflower, butter, oil, carrot, salt",30,1. Chop the cauliflower. 2. Boil the spinach. 3. Mix the butter. 4. Fry the butter.
+79,Vegetable Kurma,"rice, tomato, cardamom, dal, peas, carrot",21,1. Pressure cook the tomato. 2. Mix the tomato. 3. Saute the dal. 4. Add spices to the peas.
+80,Avial,"tomato, cardamom, green chili, onion, coriander, lemon juice, potato, turmeric, cumin, paneer",24,1. Chop the turmeric. 2. Simmer the turmeric. 3. Saute the green chili. 4. Grind the tomato.
+81,Poriyal,"onion, yogurt, coriander, ginger, green chili, cardamom, lemon juice, cloves",44,1. Mix the onion. 2. Simmer the green chili. 3. Pressure cook the ginger. 4. Grind the onion.
+82,Thoran,"curry leaves, butter, garlic, tomato, rice, cauliflower, green chili, yogurt",15,1. Fry the cauliflower. 2. Pressure cook the butter. 3. Mix the curry leaves. 4. Boil the butter.
+83,Cabbage Sabzi,"cloves, dal, peas, mustard seeds, ginger, coriander",24,1. Boil the coriander. 2. Add spices to the ginger. 3. Simmer the dal. 4. Fry the mustard seeds.
+84,Beans Stir Fry,"ghee, butter, cumin, peas, oil, paneer, tomato, cardamom, coriander",36,1. Mix the paneer. 2. Saute the oil. 3. Pressure cook the oil. 4. Simmer the paneer.
+85,Carrot Halwa,"cumin, ginger, yogurt, salt, lemon juice, mint, ghee, peas, oil, garlic",17,1. Boil the peas. 2. Pressure cook the ghee. 3. Mix the yogurt. 4. Simmer the garlic.
+86,Suji Halwa,"turmeric, salt, potato, lemon juice, cauliflower, green chili, ghee",26,1. Pressure cook the turmeric. 2. Boil the ghee. 3. Grind the turmeric. 4. Fry the salt.
+87,Besan Ladoo,"onion, mint, salt, mustard seeds, peas, ghee, tomato, carrot, turmeric",14,1. Fry the carrot. 2. Boil the onion. 3. Grind the salt. 4. Mix the tomato.
+88,Rasgulla,"onion, potato, mint, garlic, green chili",22,1. Chop the green chili. 2. Mix the potato. 3. Simmer the green chili. 4. Grind the garlic.
+89,Gulab Jamun,"rice, green chili, cauliflower, ghee, dal, cardamom, garlic, yogurt",34,1. Boil the yogurt. 2. Grind the ghee. 3. Mix the green chili. 4. Fry the rice.
+90,Jalebi,"cauliflower, curry leaves, paneer, ginger, mustard seeds, oil",23,1. Grind the curry leaves. 2. Chop the cauliflower. 3. Simmer the oil. 4. Pressure cook the ginger.
+91,Kheer,"oil, turmeric, garlic, paneer, cauliflower",27,1. Chop the oil. 2. Add spices to the turmeric. 3. Fry the oil. 4. Simmer the turmeric.
+92,Payasam,"garlic, cauliflower, oil, mint, ghee, coriander, cumin",14,1. Boil the cauliflower. 2. Add spices to the cumin. 3. Simmer the cumin. 4. Chop the oil.
+93,Rice Kheer,"oil, turmeric, rice, cloves, ghee, potato, dal, carrot, peas, tomato",25,1. Pressure cook the rice. 2. Saute the oil. 3. Add spices to the potato. 4. Mix the rice.
+94,Sabudana Kheer,"potato, butter, lemon juice, green chili, ghee, oil, cloves, cardamom",12,1. Fry the cloves. 2. Chop the green chili. 3. Mix the butter. 4. Grind the butter.
+95,Fruit Salad,"cumin, rice, potato, turmeric, ghee, yogurt, tomato",15,1. Chop the potato. 2. Grind the turmeric. 3. Pressure cook the cumin. 4. Add spices to the yogurt.
+96,Mango Lassi,"salt, paneer, mint, butter, cardamom, turmeric",21,1. Pressure cook the cardamom. 2. Chop the butter. 3. Fry the salt. 4. Add spices to the mint.
+97,Masala Chai,"spinach, carrot, mustard seeds, mint, coriander, peas, onion, paneer",18,1. Saute the mustard seeds. 2. Grind the mustard seeds. 3. Mix the spinach. 4. Add spices to the peas.
+98,Filter Coffee,"tomato, cardamom, cloves, rice, cauliflower, salt, butter",30,1. Fry the rice. 2. Mix the cardamom. 3. Grind the salt. 4. Pressure cook the tomato.
+99,Roti,"curry leaves, cauliflower, mint, rice, peas, dal, lemon juice, onion, butter, tomato",28,1. Saute the cauliflower. 2. Boil the rice. 3. Mix the rice. 4. Chop the butter.
+100,Chapati,"cloves, dal, curry leaves, lemon juice, cauliflower, rice, potato, tomato, cumin",37,1. Saute the dal. 2. Mix the potato. 3. Grind the potato. 4. Chop the rice.
+101,Naan,"ginger, cloves, spinach, rice, ghee, cauliflower, carrot, cumin, green chili",25,1. Chop the ginger. 2. Boil the ginger. 3. Fry the carrot. 4. Mix the cumin.
+102,Tandoori Roti,"cauliflower, coriander, mustard seeds, paneer, cumin, cloves, yogurt, cardamom, oil",35,1. Add spices to the paneer. 2. Boil the paneer. 3. Simmer the cardamom. 4. Fry the oil.
+103,Phulka,"butter, spinach, salt, turmeric, coriander",22,1. Grind the butter. 2. Saute the coriander. 3. Boil the salt. 4. Add spices to the butter.
+104,Bhakri,"yogurt, cumin, paneer, rice, peas, dal, carrot, ghee, turmeric, lemon juice",31,1. Grind the dal. 2. Saute the cumin. 3. Boil the dal. 4. Fry the cumin.
+105,Thepla,"carrot, coriander, lemon juice, potato, paneer, garlic, cardamom, butter",15,1. Saute the lemon juice. 2. Chop the butter. 3. Add spices to the carrot. 4. Boil the butter.
+106,Handvo,"butter, carrot, turmeric, mint, tomato",25,1. Fry the mint. 2. Simmer the turmeric. 3. Grind the mint. 4. Add spices to the mint.
+107,Undhiyu,"cloves, mustard seeds, lemon juice, carrot, dal, onion, mint",24,1. Simmer the lemon juice. 2. Mix the dal. 3. Fry the dal. 4. Grind the dal.
+108,Dhokli,"tomato, mint, cumin, yogurt, green chili, curry leaves, potato, dal, mustard seeds, paneer",40,1. Mix the tomato. 2. Boil the dal. 3. Fry the curry leaves. 4. Pressure cook the curry leaves.
+109,Dal Dhokli,"ghee, yogurt, turmeric, oil, garlic, butter, cloves",26,1. Chop the oil. 2. Fry the oil. 3. Boil the garlic. 4. Simmer the yogurt.
+110,Vegetable Stew,"tomato, mint, curry leaves, onion, oil",27,1. Mix the tomato. 2. Chop the mint. 3. Saute the curry leaves. 4. Fry the oil.
+111,Paruppu,"mint, cloves, onion, paneer, lemon juice, cumin, peas, ginger, ghee, tomato",30,1. Pressure cook the cumin. 2. Add spices to the paneer. 3. Fry the peas. 4. Chop the onion.
+112,Tomato Bath,"dal, yogurt, ginger, turmeric, curry leaves, green chili, cloves, ghee",16,1. Fry the yogurt. 2. Grind the ginger. 3. Add spices to the green chili. 4. Pressure cook the turmeric.
+113,Rava Kesari,"oil, dal, cardamom, peas, salt, spinach, potato, yogurt",17,1. Add spices to the peas. 2. Grind the cardamom. 3. Chop the yogurt. 4. Mix the oil.
+114,Neer Dosa,"cauliflower, peas, tomato, turmeric, garlic, onion, oil, rice",24,1. Pressure cook the peas. 2. Simmer the tomato. 3. Boil the turmeric. 4. Saute the rice.
+115,Appam,"rice, coriander, turmeric, spinach, cumin, garlic, green chili, cloves, yogurt, ghee",34,1. Chop the ghee. 2. Add spices to the cloves. 3. Mix the coriander. 4. Simmer the coriander.
+116,Idiyappam,"cloves, cumin, salt, rice, ghee, paneer",19,1. Chop the cloves. 2. Fry the salt. 3. Simmer the cumin. 4. Grind the paneer.
+117,Puttu,"ginger, curry leaves, onion, lemon juice, potato, carrot, peas, paneer, yogurt",38,1. Chop the curry leaves. 2. Simmer the onion. 3. Boil the carrot. 4. Fry the peas.
+118,Kozhukattai,"tomato, cloves, salt, oil, peas, green chili",30,1. Fry the peas. 2. Pressure cook the green chili. 3. Add spices to the tomato. 4. Saute the oil.
+119,Murukku,"spinach, garlic, ghee, paneer, salt, mint",30,1. Add spices to the garlic. 2. Boil the mint. 3. Grind the spinach. 4. Chop the mint.
+120,Banana Chips,"lemon juice, cumin, carrot, butter, salt, spinach, cardamom, mustard seeds",42,1. Fry the mustard seeds. 2. Pressure cook the butter. 3. Chop the spinach. 4. Mix the mustard seeds.
+121,Jackfruit Chips,"paneer, yogurt, rice, garlic, onion",18,1. Boil the rice. 2. Grind the rice. 3. Pressure cook the rice. 4. Chop the paneer.
+122,Kappa Meen Curry,"cauliflower, rice, ghee, cardamom, turmeric, paneer, ginger, coriander, oil, curry leaves",21,1. Boil the turmeric. 2. Grind the paneer. 3. Chop the oil. 4. Mix the cardamom.
+123,Chicken Chettinad,"dal, curry leaves, green chili, peas, turmeric, rice",13,1. Fry the curry leaves. 2. Saute the rice. 3. Add spices to the rice. 4. Chop the turmeric.
+124,Kozhi Varutharachathu,"lemon juice, cloves, oil, dal, cardamom, green chili, paneer",41,1. Add spices to the cardamom. 2. Chop the dal. 3. Boil the green chili. 4. Saute the paneer.

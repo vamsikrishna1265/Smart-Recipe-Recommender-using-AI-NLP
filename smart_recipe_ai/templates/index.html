@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AI Recipe Recommender</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h2>Smart Recipe Recommender</h2>
+
+    <form action="/recommend" method="post">
+        <label>Available Ingredients (comma-separated):</label><br>
+        <input type="text" name="ingredients" placeholder="e.g. potato, tomato, onion" required><br><br>
+
+        <label>Available Cooking Time (in minutes):</label><br>
+        <input type="number" name="time" placeholder="e.g. 30" required><br><br>
+
+        <input type="submit" value="Suggest Recipe">
+    </form>
+
+    {% if result %}
+    <hr>
+    <div>
+        {{ result|safe }}
+    </div>
+    {% endif %}
+</body>
+</html>
